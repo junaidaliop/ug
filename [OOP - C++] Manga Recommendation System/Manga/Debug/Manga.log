@@ -1,0 +1,14 @@
+﻿  Comedy.cpp
+  Fantasy.cpp
+  Input.cpp
+E:\2nd Semester\OOP\Manga\Manga\Input.cpp(107,21): warning C4018: '<': signed/unsigned mismatch
+  main.cpp
+  Manga.cpp
+E:\2nd Semester\OOP\Manga\Manga\Manga.cpp(24,21): warning C4018: '<': signed/unsigned mismatch
+E:\2nd Semester\OOP\Manga\Manga\Manga.cpp(49,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\2nd Semester\OOP\Manga\Manga\Manga.cpp(204,20): warning C4018: '<': signed/unsigned mismatch
+  Mystery.cpp
+  Romance.cpp
+  Action.cpp
+  Generating Code...
+  Manga.vcxproj -> E:\2nd Semester\OOP\Manga\Debug\Manga.exe
